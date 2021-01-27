@@ -16,6 +16,7 @@ public class Main {
         Freon.Temp="40000c";
 asfdfadfafafasfas
 asfasfasfasfasfasfasf
+    asfasfasffasfasfasf
 
     }
 }
