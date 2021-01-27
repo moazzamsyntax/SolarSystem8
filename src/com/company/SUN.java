@@ -4,4 +4,7 @@ public class SUN {
     String size;
     String Temp;
     String color;
+    
+    merge it please
+        
 }
